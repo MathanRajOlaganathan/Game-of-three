@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: GAME-OF-THREE-1
+server:
+  port: 8080
+
+
+app:
+  gamer:
+    uri: http://localhost:8082/actuator/health
+  play:
+    uri: http://localhost:8082/api/game/play
