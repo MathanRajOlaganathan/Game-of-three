@@ -45,7 +45,7 @@ Alternatively, you can run the app without packaging it using -
 ```bash
 mvn spring-boot:run
 ```
-Alternatively, you can run the built  jar which is  placed under FoodDelivery-Spicy directory -
+Alternatively, you can run the built  jar which is  placed under Game-of-three directory -
 
 ```bash
 java -jar target/game-of-three.jar
